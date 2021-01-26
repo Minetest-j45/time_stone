@@ -3,7 +3,7 @@
 ---What this mod does---
 This mod adds 2 single use stones, a day stone and a nught stone, the day stone turns time to sunrise and the night stone turns time to sunset.
 
----License---
+---License---<br />
 coding-j45, LGPL 2.1<br />
 textures-lizard04, CC-BY-NC-SA
 

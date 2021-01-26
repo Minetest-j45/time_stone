@@ -1,4 +1,4 @@
-#time_stone
+# time_stone
 
 ---What this mod does---
 This mod adds 2 single use stones, a day stone and a nught stone, the day stone turns time to sunrise and the night stone turns time to sunset.

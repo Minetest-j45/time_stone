@@ -5,7 +5,7 @@ This mod adds 2 single use stones, a day stone and a night stone, the day stone 
 
 ## License
 coding-j45, LGPL 2.1<br />
-textures-lizard04, CC-BY-NC-SA
+textures-lizard04, CC-BY-NC-SA 3.0
 
 ## Dependencies
 Default

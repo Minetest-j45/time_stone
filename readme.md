@@ -4,8 +4,8 @@
 This mod adds 2 single use stones, a day stone and a night stone, the day stone turns time to sunrise and the night stone turns time to sunset.
 
 ## License
-coding-j45, LGPL 2.1<br>
-textures:j45, CC-BY-SA 4.0 <br>
+coding: j45, LGPL 2.1<br>
+textures: j45, CC-BY-SA 4.0 <br>
 
 ## Dependencies
 Default

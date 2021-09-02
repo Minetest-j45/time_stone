@@ -1,5 +1,8 @@
 # time_stone
 
+[![ContentDB](https://content.minetest.net/packages/j45/time_stone/shields/title/)](https://content.minetest.net/packages/j45/time_stone/)
+[![ContentDB](https://content.minetest.net/packages/j45/time_stone/shields/downloads/)](https://content.minetest.net/packages/j45/time_stone/)
+
 ## What this mod does
 This mod adds 2 single use stones, a day stone and a night stone, the day stone turns time to sunrise and the night stone turns time to sunset.
 
